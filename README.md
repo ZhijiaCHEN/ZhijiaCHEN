@@ -9,7 +9,6 @@
 I am a PhD candidate at the Computer & Information Science Department of [Temple University](https://www.temple.edu/), supervised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/)
 
 - 🔭 My research is focused on Data Mining, Web Data Extraction, Natural Language Processing.
-- 🌱 I'm currently exploring the logic reasoning ability of large language model. Does mimicing logic reasoning eventually leads to the ability to do logic reasoning?
 - ⚡ In my free time, 🏃🏋🎶🛌.
 - 👯 I’m a fan of distributed social networks, and I am looking to collaborate on p2p based social apps. Let the social network itself to decide what to remember and what to forget.
 - ⚡ Fun fact: I am an ~~audiophile~~ (cannot afford to be yet...)
